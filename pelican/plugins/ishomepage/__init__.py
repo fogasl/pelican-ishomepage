@@ -1,0 +1,1 @@
+from .ishomepage import *  # NOQA
